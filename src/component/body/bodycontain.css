@@ -1,0 +1,395 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bodyHeading {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.bodyHeadingInner {
+    width: 80%;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.containAndSignIn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 3em;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_1 {
+    border: 1px solid black;
+    background-color: #DDEFE3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_1 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_1 {
+    height: 253px;
+    width: 583px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_1_1 {
+    flex-direction: column;
+    border-right: 3px solid black;
+    width: 152px;
+    height: 72px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.containAndSignIn_Contain_upper_1_1 h4 {
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_1_1 h6 {
+    font-size: 16px;
+    line-height: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.containAndSignIn_Contain_upper_main_photo {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_photo img {
+    width: 424px;
+    height: 179px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_2 {
+    border: 1px solid black;
+    height: 356px;
+    width: 186px;
+    display: flex;
+    justify-content: center;
+    margin-left: 573px;
+    position: absolute;
+    top: -2%;
+    font-weight: bold;
+    text-align: right;
+    font-size: 30px;
+    background-color: #DDEFE3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_2 button {
+    width: 163px;
+    height: 46px;
+    margin-top: 15%;
+    border-radius: 5px;
+    background-color: #FFEE58;
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_3 {
+    width: 343px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: -24%;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #DDEFE3;
+    border-top: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_upper_main_3 img {
+    width: 303px;
+    height: 382px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+.containAndSignIn_SignIn {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-top: -2%;
+    position: inherit;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_SignIn_Header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_SignIn_Header img {
+    width: 97px;
+    height: 97px;
+}
+
+.containAndSignIn_SignIn_Header h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_SignIn_Header h5 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_SignIn_SignIn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.userName_mobile_fund {
+    display: flex;
+    width: 100%;
+    height: 40px;
+    border-bottom: 3px solid black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.userName_icon {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.userName_label {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+
+.containAndSignIn_SignIn_SignIn_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_SignIn_SignIn_button_para {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btn_whatssapp {
+    font-size: 20px;
+    background-color: #FFEE58;
+    height: 40px;
+    width: 70%;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    border: 1px solid;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btn_getCall {
+    font-size: 20px;
+    background-color: transparent;
+    height: 40px;
+    width: 40%;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    border: 1px solid;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down {
+    margin-top: 4%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down_main_2 {
+    border: 1px solid black;
+    height: 482px;
+    width: 186px;
+    display: flex;
+    justify-content: center;
+    margin-left: 573px;
+    position: absolute;
+    top: 0%;
+    font-weight: bold;
+    text-align: right;
+    font-size: 30px;
+    background-color: #DDEFE3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down_main_2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    position: absolute;
+    border-left: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down_main_2 button {
+    width: 163px;
+    height: 46px;
+    margin-top: 5%;
+    border-radius: 5px;
+    background-color: #FFEE58;
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down_main_2 img {
+    width: 186px;
+    height: 400px;
+
+}
+
+.containAndSignIn_Contain_down_main_3 {
+    width: 543px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: -24%;
+    display: flex;
+    background-color: #DDEFE3;
+    border-right: none;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.containAndSignIn_Contain_down_main_3 img {
+    width: 443px;
+    height: 360px;
+    margin-left: 3%;
+}
+
+.crowdfunding_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.crowdfunding_1 h2 {
+    text-align: center;
+    margin-left: 3%;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.crowdfunding_1_img {
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.crowdfunding_1_img img {
+    width: 100%;
+}
+
+.monsoonTrust {
+    text-align: center;
+    margin-top: 1%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.monsoonTrust h1 {
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.monsoonTrust h3 {
+    margin-top: 2%;
+    margin-left: 3%;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: initial;
+
+}

@@ -1,0 +1,46 @@
+.upperDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.payoutHeaderMain {
+    width: 23%;
+    height: 10rem;
+    padding: 2rem;
+    padding-top: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    background-color: #DDEFE3;
+    border-radius: 5px;
+
+}
+
+.payoutHeader {
+    display: flex;
+}
+
+.headerIcon svg {
+    width: 2rem;
+    height: 2rem;
+}
+
+.payoutHeader h3 {
+    margin-left: 5%;
+    font-size: 1.6rem;
+}
+
+.payoutPara {
+    width: 90%;
+    margin-left: 16%;
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.payoutPara h5 {
+    font-weight: 100;
+}

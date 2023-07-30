@@ -1,0 +1,238 @@
+.startFundraiser {
+    text-align: center;
+    width: 100%;
+    margin-top: 2%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.startFundraiser_step {
+    margin-top: 2%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepImg {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepImg_1 {
+    display: flex;
+    flex-direction: row;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.foot_1 {
+    width: 246px;
+    height: 70px;
+    margin-left: 14%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepNumaber {
+    text-decoration: none;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step1 {
+    text-decoration: underline;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.feet_1 {
+    height: 20rem;
+    width: 40rem;
+    margin-left: 2%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepImg_2 {
+    position: absolute;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 3%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepImg_2_inner {
+    display: flex;
+    justify-content: center;
+    margin-left: 0%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stepImg_2 h2 {
+    text-align: start;
+    width: 45%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.step_2 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 8rem;
+    margin-top: -6rem;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step2 {
+    text-decoration: underline;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_para {
+    position: absolute;
+    width: 25%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 10%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_para_inner {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_para_inner h2 {
+    text-align: initial;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_para_inner h6 {
+    margin-top: 1%;
+    display: flex;
+    align-items: initial;
+    font-size: .9em;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_main {
+    display: flex;
+    justify-content: flex-start;
+    position: absolute;
+    margin-left: 3%;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.step_2_main img {
+    position: relative;
+    height: 12rem;
+    width: 7rem;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.feet_3 {
+    display: flex;
+    margin-left: 5%;
+}
+
+.feet_3 img {
+    width: 35rem;
+    height: 10rem;
+    margin-top: 9%;
+}
+
+.step_3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.step3 {
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.step_3_main {
+    width: 100%;
+    margin-left: 47%;
+    margin-top: -8%;
+}
+
+.step_3_para_inner {
+    width: 25%;
+    margin-left: 3%;
+}
+
+.step_3_para_inner h2 {
+    font-weight: 100;
+    text-align: initial;
+}
+
+.step_3_para_inner h6 {
+    margin-top: 1%;
+    font-size: .9em;
+    font-weight: 100;
+    display: flex;
+    align-items: initial;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttonforfund_talk{
+    margin-top: 3%;
+}
+.btn1_fund{
+    width: 20rem;
+    height: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: #FFEE58;
+}
+.btn2_talkus{
+    width: 10rem;
+    height: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: transparent;
+    margin-left: 4%;
+}
+.chatwithUS{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 2%;
+}
+.chatwithUS h3{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 400;
+margin-left: 10%;
+}
+.chatwithUS button{
+    width: 10rem;
+    height: 3rem;
+    border-radius: 10px;
+    background-color: transparent;
+    margin-right: 20%;
+}

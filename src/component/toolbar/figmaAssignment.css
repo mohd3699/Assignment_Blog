@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainToolbarDiv {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.toolbarLogo {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    width: 5%;
+    height: 60px;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarLogo img {
+    width: 42px;
+    height: 40px;
+}
+
+.toolbarMenu {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarNenu1 {
+    border-bottom: 1px solid black;
+}
+
+.dropdownMenuSub {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 15%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.menuDivder {
+    align-items: center;
+}
+
+.toolbarMenuSearch {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 8%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarMenuSearchIcon {
+    display: flex;
+    align-items: center;
+}
+
+.toolbarMenuSearchText {
+    font-size: .9em;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarButton {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarButton1 {
+    width: 50%;
+    border: 1px solid;
+    border-radius: 7px;
+    height: 35px;
+    background-color: #FFEE58;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.toolbarButton2 {
+    width: 25%;
+    border-radius: 7px;
+    height: 35px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

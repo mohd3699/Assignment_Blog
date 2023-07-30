@@ -1,0 +1,95 @@
+.mainContainer {
+    margin-top: 5%;
+    background-color: #DDEFE3;
+}
+
+.mainDivUpperDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.mainDivUpper {
+    position: absolute;
+    width: 33%;
+    opacity: 0.2;
+}
+
+.mainDiv {
+    margin-top: 1rem;
+    height: 500px;
+    padding: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.upperFooter {
+    display: flex;
+}
+
+.logo {
+    width: 30%;
+    padding: 1rem 2rem 0rem 2rem;
+}
+
+.cause {
+    width: 17.5%;
+}
+
+.work {
+    width: 17.5%;
+}
+
+.aboutus {
+    width: 17.5%;
+}
+
+.support {
+    width: 17.5%;
+}
+
+.logoImg img {
+    width: 109px;
+    height: 109px;
+}
+
+.socilaLogo {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+.socilaLogo img {
+    height: 200px;
+    width: 200px;
+}
+
+.logo h5 {
+    font-weight: 100;
+}
+
+.cause h5 {
+    font-weight: 100;
+}
+
+.work h5 {
+    font-weight: 100;
+}
+
+.aboutus h5 {
+    font-weight: 100;
+}
+
+.support h5 {
+    font-weight: 100;
+}
+
+.paymentImg {
+    width: 100%;
+    margin-left: 65%;
+}
+
+.paymentImg img {
+    width: 40px;
+    height: 40px;
+    margin-left: 2%;
+}
